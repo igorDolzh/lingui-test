@@ -28,7 +28,7 @@ const App = () => {
         <Trans>Buffer zone</Trans>
         <Trans>Buffer zone111</Trans>
         <Trans>Buffer 234</Trans>
-        <Trans>Buffer bob</Trans>
+        <Trans>Buffer bob323</Trans>
       </h1>
       <h1>
         <Trans>Hello sir</Trans>
