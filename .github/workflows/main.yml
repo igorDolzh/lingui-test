@@ -4,7 +4,7 @@ on:
   push:
     # Only run workflow for pushes to specific branches
     branches:
-      - master
+      - kek-2
     # Only run workflow when matching files are changed
     paths:
       - "src/locales/*/messages.po"
