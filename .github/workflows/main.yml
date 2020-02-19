@@ -55,7 +55,7 @@ jobs:
       - name: Config merge
         run: git config merge.pofile.driver "$(npm bin)/git-po-merge %A %O %B" && git config merge.pofile.name "custom merge driver for gettext po files"
       - name: Merge with master
-        run: git merge master
+        run: git merge origin/master
       - name: Extracting messages
         run: yarn extract
       - name: Commiting locales
