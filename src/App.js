@@ -22,40 +22,33 @@ const App = () => {
       <h1>
         <Trans>Buffer 234</Trans>
         <Trans>Buffer 234</Trans> <Trans>Buffer 234</Trans>
-        <Trans>Let's go</Trans>
-        <Trans>13 N23ice</Trans>
+        <Trans>Let's gergergce</Trans>
         <Trans>Make no push</Trans>
-        <Trans>Okey Google</Trans>
-        <Trans>Go go go</Trans>
-        <Trans>Buffer 234</Trans>
-        <Trans>13 Nice</Trans>
-        <Trans>Buffer zongege111</Trans>
+        <Trans>Okey Geferfgoogle</Trans>
         <Trans>Buffer 234</Trans>
         <Trans>Buffer bob</Trans>
-        <Trans>Buffer zone</Trans>
+        <Trans>Buffefergererer zone</Trans>
         <Trans>Buffer zone111</Trans>
         <Trans>Buffer eger</Trans>
         <Trans>Okey 343Google</Trans>
         <Trans>Buffer zongege111</Trans>
-        <Trans>Buffer 234</Trans>
-        <Trans>Buffer bob</Trans>
+        <Trans>Bufergfer 234</Trans>
+        <Trans>Bergerguffer bob</Trans>
         <Trans>Buffer zone</Trans>
         <Trans>Buffer zone</Trans>
-        <Trans>Buffer zone</Trans>
+        <Trans>Bufergergergergfer zone</Trans>
       </h1>
       <h1>
         <Trans>Hello sir</Trans>
       </h1>
       <h1>
-        <Trans>New text</Trans>
+        <Trans>Newergerg text</Trans>
       </h1>
       <h1>
         <Trans>Next text</Trans>
         <Trans>This time it should work now go kola</Trans>
-        <Trans>This hikolp 12312</Trans>
+        <Trans>Thissdfgerg hikolp 12312</Trans>
         <Trans>Kiko kiko</Trans>
-        <Trans>Google me</Trans>
-        <Trans>Fire me</Trans>
       </h1>
       <p>
         <Plural
