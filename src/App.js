@@ -43,7 +43,7 @@ const App = () => {
         <Trans>Hello sir</Trans>
       </h1>
       <h1>
-        <Trans>New text</Trans>
+        <Trans>New t323ext</Trans>
       </h1>
       <h1>
         <Trans>Next text</Trans>
