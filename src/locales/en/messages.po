@@ -8,6 +8,12 @@ msgstr ""
 msgid "13 Ni434343ddfdffdf33232323232wefwce"
 msgstr "13 Ni4343dfddfdfdfce"
 
+msgid "13 Niddfdffd345345f33232323232wefwce"
+msgstr "13 Nidf345345ddfdfdfce"
+
+msgid "13 Niddfdffdf33232323232wefwce"
+msgstr "13 Nidfddfdfdfce"
+
 msgid "13 Niw434343efwce"
 msgstr "13 Nice"
 
