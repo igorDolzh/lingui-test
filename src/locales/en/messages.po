@@ -5,7 +5,9 @@ msgstr ""
 "Language: \n"
 "Plural-Forms: \n"
 
-#, fuzzy
+msgid "13 123Nid234234234234234dfdffd345345f33232323232wefwce"
+msgstr "13 1242342343Ni234242df345345ddfdfdfce"
+
 msgid "13 123Nid234234234dfdffd345345f33232323232wefwce"
 msgstr "13 123Ni234242df345345ddfdfdfce"
 
