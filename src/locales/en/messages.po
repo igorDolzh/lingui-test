@@ -26,6 +26,9 @@ msgstr "13 23234343423423423423234234234"
 msgid "13 N234234234ice"
 msgstr "13 23423Nice"
 
+msgid "13 Ni234234ce"
+msgstr "13 N234234ice"
+
 msgid "13 Nice"
 msgstr "13 Nice"
 
