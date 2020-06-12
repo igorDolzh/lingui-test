@@ -12,7 +12,7 @@ const App = () => {
       </Trans>
       <p>
         <Trans>
-          This message is translated and has a{" "}
+          This meswerwesage is translated and has a{" "}
           <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">link</a>
         </Trans>
       </p>
