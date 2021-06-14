@@ -32,7 +32,7 @@ const App = () => {
         <Trans>Lolicdcpwfwefwefe</Trans>
         <Trans>NEW LOCALEsd fsdf</Trans>
         <Trans>NEW LOsdfsdfsdf CALE</Trans>
-        <Trans>Okergergey fef</Trans>
+        <Trans>Okerwefwegergey fef</Trans>
         <Trans>Go gore go</Trans>
         <Trans>Go erfgore go</Trans>
         <Trans>Go gore erfergo</Trans>

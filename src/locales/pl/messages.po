@@ -280,7 +280,11 @@ msgstr ""
 #~ msgstr ""
 
 #: src/App.js:35
-msgid "Okergergey fef"
+#~ msgid "Okergergey fef"
+#~ msgstr ""
+
+#: src/App.js:35
+msgid "Okerwefwegergey fef"
 msgstr ""
 
 #~ msgid "Okey 343Google"

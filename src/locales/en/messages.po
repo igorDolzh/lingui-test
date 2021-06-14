@@ -282,8 +282,12 @@ msgstr "Next texfefeft"
 #~ msgstr "Okergergey Gffdoogle"
 
 #: src/App.js:35
-msgid "Okergergey fef"
-msgstr "Okergergey fef"
+#~ msgid "Okergergey fef"
+#~ msgstr "Okergergey fef"
+
+#: src/App.js:35
+msgid "Okerwefwegergey fef"
+msgstr "Okerwefwegergey fef"
 
 #: src/App.js:35
 #~ msgid "Okey Gffdoogle"
