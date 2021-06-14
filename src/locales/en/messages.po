@@ -17,8 +17,12 @@ msgstr ""
 #~ msgstr "10 N223423434234ice"
 
 #: src/App.js:41
-msgid "13 Nic3434e"
-msgstr "13 Nic3434e"
+#~ msgid "13 Nic3434e"
+#~ msgstr "13 Nic3434e"
+
+#: src/App.js:41
+msgid "13 Nic34цуа34e"
+msgstr "13 Nic34цуа34e"
 
 #: src/App.js:41
 #~ msgid "13 Nice"
@@ -40,8 +44,12 @@ msgstr "13 Nic3434e"
 #~ msgstr "13 Nice"
 
 #: src/App.js:42
-msgid "14 Nice"
-msgstr "14 Nice"
+#~ msgid "14 Nice"
+#~ msgstr "14 Nice"
+
+#: src/App.js:42
+msgid "14 Nцуаce"
+msgstr "14 Nцуаce"
 
 #~ msgid "142342342343 2223423423423423423345345345422344324234234423434234"
 #~ msgstr "13 23423423423423345345232342234243443234234234234"

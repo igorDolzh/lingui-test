@@ -16,7 +16,11 @@ msgstr ""
 #~ msgstr ""
 
 #: src/App.js:41
-msgid "13 Nic3434e"
+#~ msgid "13 Nic3434e"
+#~ msgstr ""
+
+#: src/App.js:41
+msgid "13 Nic34цуа34e"
 msgstr ""
 
 #: src/App.js:41
@@ -24,7 +28,11 @@ msgstr ""
 #~ msgstr ""
 
 #: src/App.js:42
-msgid "14 Nice"
+#~ msgid "14 Nice"
+#~ msgstr ""
+
+#: src/App.js:42
+msgid "14 Nцуаce"
 msgstr ""
 
 #: src/App.js:43
